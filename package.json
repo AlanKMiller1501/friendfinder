@@ -1,0 +1,20 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "Technologies Used:\r JavaScript\r jQuery\r node.js\r Express.js\r HTML\r Bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlanKMiller1501/friendfinder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlanKMiller1501/friendfinder/issues"
+  },
+  "homepage": "https://github.com/AlanKMiller1501/friendfinder#readme"
+}
